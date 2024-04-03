@@ -1,2 +1,2 @@
 # ML_collection
-My collection of notebooks with ML models
+My tests of ML models with different parameters.
